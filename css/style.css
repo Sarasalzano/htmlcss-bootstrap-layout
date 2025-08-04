@@ -3,3 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* regole debug griglia */
+
+[class^="container"] {
+    background-color: thistle;
+    border: 1px solid black;
+    min-height: 80vh;
+}
+
+[class^="row"] {
+    background-color: rgb(201, 194, 103);
+    border: 1px dashed black;
+
+}
+
+[class^="col"] {
+    /*background-color: teal;*/
+    border: 1px dotted black;
+    min-height: 150px;
+}
