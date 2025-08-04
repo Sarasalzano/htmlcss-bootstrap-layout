@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-/* regole debug griglia */
+/* regole debug griglia 
 
 [class^="container"] {
     background-color: thistle;
@@ -19,7 +19,9 @@
 }
 
 [class^="col"] {
-    /*background-color: teal;*/
+    background-color: teal;
     border: 1px dotted black;
     min-height: 150px;
-}
+} 
+*/
+
